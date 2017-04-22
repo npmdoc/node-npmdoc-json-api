@@ -1,73 +1,76 @@
-<svg height="1118" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1118" fill="#555" width="720"></rect>
+<svg height="1166" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1166" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">├── UNMET PEER DEPENDENCY express@^4.0.0</tspan>
-<tspan x="10" y="42">├─┬ json-api@2.15.7 </tspan>
-<tspan x="10" y="58">│ ├─┬ babel-runtime@5.6.17 </tspan>
-<tspan x="10" y="74">│ │ └── core-js@0.9.18 </tspan>
-<tspan x="10" y="90">│ ├── co@4.5.4 </tspan>
-<tspan x="10" y="106">│ ├── content-type@1.0.2 </tspan>
-<tspan x="10" y="122">│ ├── dasherize@2.0.0 </tspan>
-<tspan x="10" y="138">│ ├─┬ flat@1.6.1 </tspan>
-<tspan x="10" y="154">│ │ └── is-buffer@1.1.5 </tspan>
-<tspan x="10" y="170">│ ├── immutable@3.8.1 </tspan>
-<tspan x="10" y="186">│ ├─┬ jade@1.11.0 </tspan>
-<tspan x="10" y="202">│ │ ├── character-parser@1.2.1 </tspan>
-<tspan x="10" y="218">│ │ ├─┬ clean-css@3.4.25 </tspan>
-<tspan x="10" y="234">│ │ │ ├─┬ commander@2.8.1 </tspan>
-<tspan x="10" y="250">│ │ │ │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="266">│ │ │ └─┬ source-map@0.4.4 </tspan>
-<tspan x="10" y="282">│ │ │   └── amdefine@1.0.1 </tspan>
-<tspan x="10" y="298">│ │ ├── commander@2.6.0 </tspan>
-<tspan x="10" y="314">│ │ ├─┬ constantinople@3.0.2 </tspan>
-<tspan x="10" y="330">│ │ │ └── acorn@2.7.0 </tspan>
-<tspan x="10" y="346">│ │ ├─┬ jstransformer@0.0.2 </tspan>
-<tspan x="10" y="362">│ │ │ ├── is-promise@2.1.0 </tspan>
-<tspan x="10" y="378">│ │ │ └─┬ promise@6.1.0 </tspan>
-<tspan x="10" y="394">│ │ │   └── asap@1.0.0 </tspan>
-<tspan x="10" y="410">│ │ ├─┬ mkdirp@0.5.1 </tspan>
-<tspan x="10" y="426">│ │ │ └── minimist@0.0.8 </tspan>
-<tspan x="10" y="442">│ │ ├─┬ transformers@2.1.0 </tspan>
-<tspan x="10" y="458">│ │ │ ├─┬ css@1.0.8 </tspan>
-<tspan x="10" y="474">│ │ │ │ ├── css-parse@1.0.4 </tspan>
-<tspan x="10" y="490">│ │ │ │ └── css-stringify@1.0.5 </tspan>
-<tspan x="10" y="506">│ │ │ ├─┬ promise@2.0.0 </tspan>
-<tspan x="10" y="522">│ │ │ │ └── is-promise@1.0.1 </tspan>
-<tspan x="10" y="538">│ │ │ └─┬ uglify-js@2.2.5 </tspan>
-<tspan x="10" y="554">│ │ │   ├─┬ optimist@0.3.7 </tspan>
-<tspan x="10" y="570">│ │ │   │ └── wordwrap@0.0.3 </tspan>
-<tspan x="10" y="586">│ │ │   └── source-map@0.1.43 </tspan>
-<tspan x="10" y="602">│ │ ├─┬ uglify-js@2.8.21 </tspan>
-<tspan x="10" y="618">│ │ │ ├── source-map@0.5.6 </tspan>
-<tspan x="10" y="634">│ │ │ ├── uglify-to-browserify@1.0.2 </tspan>
-<tspan x="10" y="650">│ │ │ └─┬ yargs@3.10.0 </tspan>
-<tspan x="10" y="666">│ │ │   ├── camelcase@1.2.1 </tspan>
-<tspan x="10" y="682">│ │ │   ├─┬ cliui@2.1.0 </tspan>
-<tspan x="10" y="698">│ │ │   │ ├─┬ center-align@0.1.3 </tspan>
-<tspan x="10" y="714">│ │ │   │ │ ├─┬ align-text@0.1.4 </tspan>
-<tspan x="10" y="730">│ │ │   │ │ │ ├── kind-of@3.1.0 </tspan>
-<tspan x="10" y="746">│ │ │   │ │ │ ├── longest@1.0.1 </tspan>
-<tspan x="10" y="762">│ │ │   │ │ │ └── repeat-string@1.6.1 </tspan>
-<tspan x="10" y="778">│ │ │   │ │ └── lazy-cache@1.0.4 </tspan>
-<tspan x="10" y="794">│ │ │   │ ├── right-align@0.1.3 </tspan>
-<tspan x="10" y="810">│ │ │   │ └── wordwrap@0.0.2 </tspan>
-<tspan x="10" y="826">│ │ │   ├── decamelize@1.2.0 </tspan>
-<tspan x="10" y="842">│ │ │   └── window-size@0.1.0 </tspan>
-<tspan x="10" y="858">│ │ ├── void-elements@2.0.1 </tspan>
-<tspan x="10" y="874">│ │ └─┬ with@4.0.3 </tspan>
-<tspan x="10" y="890">│ │   ├── acorn@1.2.2 </tspan>
-<tspan x="10" y="906">│ │   └── acorn-globals@1.0.9 </tspan>
-<tspan x="10" y="922">│ ├── lodash@3.10.1 </tspan>
-<tspan x="10" y="938">│ ├── negotiator@0.6.0  (git://github.com/ethanresnick/negotiator.git#e2fe4abc56271b9851132f3e50\</tspan>
-<tspan x="10" y="954">8e7323415c8aea)</tspan>
-<tspan x="10" y="970">│ ├── pluralize@0.0.11 </tspan>
-<tspan x="10" y="986">│ ├── q@1.4.1 </tspan>
-<tspan x="10" y="1002">│ ├── qs@5.2.1 </tspan>
-<tspan x="10" y="1018">│ ├─┬ raw-body@1.3.4 </tspan>
-<tspan x="10" y="1034">│ │ ├── bytes@1.0.0 </tspan>
-<tspan x="10" y="1050">│ │ └── iconv-lite@0.4.8 </tspan>
-<tspan x="10" y="1066">│ ├── url-template@2.0.8 </tspan>
-<tspan x="10" y="1082">│ └── vary@1.1.1 </tspan>
-<tspan x="10" y="1098">└── UNMET PEER DEPENDENCY mongoose@^4.0.0</tspan>
+<tspan x="10" y="26">16 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY express@^4.0.0</tspan>
+<tspan x="10" y="90">├─┬ json-api@2.15.7 </tspan>
+<tspan x="10" y="106">│ ├─┬ babel-runtime@5.6.17 </tspan>
+<tspan x="10" y="122">│ │ └── core-js@0.9.18 </tspan>
+<tspan x="10" y="138">│ ├── co@4.5.4 </tspan>
+<tspan x="10" y="154">│ ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="170">│ ├── dasherize@2.0.0 </tspan>
+<tspan x="10" y="186">│ ├─┬ flat@1.6.1 </tspan>
+<tspan x="10" y="202">│ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="218">│ ├── immutable@3.8.1 </tspan>
+<tspan x="10" y="234">│ ├─┬ jade@1.11.0 </tspan>
+<tspan x="10" y="250">│ │ ├── character-parser@1.2.1 </tspan>
+<tspan x="10" y="266">│ │ ├─┬ clean-css@3.4.25 </tspan>
+<tspan x="10" y="282">│ │ │ ├─┬ commander@2.8.1 </tspan>
+<tspan x="10" y="298">│ │ │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="314">│ │ │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="330">│ │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="346">│ │ ├── commander@2.6.0 </tspan>
+<tspan x="10" y="362">│ │ ├─┬ constantinople@3.0.2 </tspan>
+<tspan x="10" y="378">│ │ │ └── acorn@2.7.0 </tspan>
+<tspan x="10" y="394">│ │ ├─┬ jstransformer@0.0.2 </tspan>
+<tspan x="10" y="410">│ │ │ ├── is-promise@2.1.0 </tspan>
+<tspan x="10" y="426">│ │ │ └─┬ promise@6.1.0 </tspan>
+<tspan x="10" y="442">│ │ │   └── asap@1.0.0 </tspan>
+<tspan x="10" y="458">│ │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="474">│ │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="490">│ │ ├─┬ transformers@2.1.0 </tspan>
+<tspan x="10" y="506">│ │ │ ├─┬ css@1.0.8 </tspan>
+<tspan x="10" y="522">│ │ │ │ ├── css-parse@1.0.4 </tspan>
+<tspan x="10" y="538">│ │ │ │ └── css-stringify@1.0.5 </tspan>
+<tspan x="10" y="554">│ │ │ ├─┬ promise@2.0.0 </tspan>
+<tspan x="10" y="570">│ │ │ │ └── is-promise@1.0.1 </tspan>
+<tspan x="10" y="586">│ │ │ └─┬ uglify-js@2.2.5 </tspan>
+<tspan x="10" y="602">│ │ │   ├─┬ optimist@0.3.7 </tspan>
+<tspan x="10" y="618">│ │ │   │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="634">│ │ │   └── source-map@0.1.43 </tspan>
+<tspan x="10" y="650">│ │ ├─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="666">│ │ │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="682">│ │ │ ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="698">│ │ │ └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="714">│ │ │   ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="730">│ │ │   ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="746">│ │ │   │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="762">│ │ │   │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="778">│ │ │   │ │ │ ├── kind-of@3.1.0 </tspan>
+<tspan x="10" y="794">│ │ │   │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="810">│ │ │   │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="826">│ │ │   │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="842">│ │ │   │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="858">│ │ │   │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="874">│ │ │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="890">│ │ │   └── window-size@0.1.0 </tspan>
+<tspan x="10" y="906">│ │ ├── void-elements@2.0.1 </tspan>
+<tspan x="10" y="922">│ │ └─┬ with@4.0.3 </tspan>
+<tspan x="10" y="938">│ │   ├── acorn@1.2.2 </tspan>
+<tspan x="10" y="954">│ │   └── acorn-globals@1.0.9 </tspan>
+<tspan x="10" y="970">│ ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="986">│ ├── negotiator@0.6.0  (git://github.com/ethanresnick/negotiator.git#e2fe4abc56271b9851132f3e50\</tspan>
+<tspan x="10" y="1002">8e7323415c8aea)</tspan>
+<tspan x="10" y="1018">│ ├── pluralize@0.0.11 </tspan>
+<tspan x="10" y="1034">│ ├── q@1.4.1 </tspan>
+<tspan x="10" y="1050">│ ├── qs@5.2.1 </tspan>
+<tspan x="10" y="1066">│ ├─┬ raw-body@1.3.4 </tspan>
+<tspan x="10" y="1082">│ │ ├── bytes@1.0.0 </tspan>
+<tspan x="10" y="1098">│ │ └── iconv-lite@0.4.8 </tspan>
+<tspan x="10" y="1114">│ ├── url-template@2.0.8 </tspan>
+<tspan x="10" y="1130">│ └── vary@1.1.1 </tspan>
+<tspan x="10" y="1146">└── UNMET PEER DEPENDENCY mongoose@^4.0.0</tspan>
 </text>
 </svg>
